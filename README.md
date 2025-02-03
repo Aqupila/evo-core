@@ -1,6 +1,8 @@
 # Evo Management Platform
 
-<img src="https://avatars.githubusercontent.com/u/187806108?s=400&u=a548b67be13afefd8c4841f7586bc7e0ec95d903&v=4" alt="Aqupila Logo" width="100" align="center" />
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/187806108?s=400&u=a548b67be13afefd8c4841f7586bc7e0ec95d903&v=4" alt="Aqupila Logo" width="100" />
+</div>
 
 Evo is a powerful and intelligent management platform designed to help businesses of all sizes thrive. It provides a comprehensive suite of tools for managing users, businesses, sales, and websites, all in one centralized location. Built with cutting-edge technology and AI-powered features, Evo empowers businesses to streamline their operations, improve efficiency, and achieve their goals.  Evo, along with the Aqupila organization itself, is a product of Yamata Production.
 
@@ -101,8 +103,4 @@ Evo is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or feedback, please contact us at [support@aqupila.com](mailto:support@aqupila.com).
-
----
-
-This README provides a comprehensive overview of the Evo Management Platform. It includes information about the platform's features, technologies, installation, usage, contributing guidelines, support information, license, and contact information. This detailed information will help users understand and utilize the platform effectively.  We encourage community involvement and contributions to further enhance Evo.
+If you have any questions or feedback,
