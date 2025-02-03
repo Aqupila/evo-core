@@ -9,6 +9,7 @@ Evo is a powerful and intelligent management platform designed to help businesse
 
 ---
 
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -29,7 +30,7 @@ In today's fast-paced business environment, effective management is crucial for 
 
 Aqupila is a collaborative open-source organization focused on developing and sharing high-quality software projects.  It's a platform for innovation and community contribution, driven by the vision of creating universally accessible and beneficial tools.  It is not affiliated with any specific country, organization, or agency.  It was created by Hadi Mousavi (codeindevelopment@gmail.com) in Iran. We do not use any specific data center for information management and do not have a fixed location.  All necessary work on these software products is carried out by developers around the world, and anyone can contribute by creating a new feature. After approval from the repository maintainer, the feature can be added to the software.  Yamata Production, the creator of both Evo and Aqupila, is the programming alias of Hadi Mousavi.  This project is a testament to the power of individual effort and dedication, with Hadi Mousavi single-handedly designing, planning, and developing all aspects, from graphic design and UI/UX implementation to backend architecture, API design (catering to developers), and multilingual support (with a minimum of 50 languages).  The goal is to create a universally beneficial tool, accessible to everyone without profit being directed to any specific company, corporation, or organization.
 
-This project, from initial concept to execution and design, has been 10 years in the making.  During this time, we faced numerous challenges, including internet limitations and restrictions within Iran.  However, we persevered to bring this software to the world, freely available for everyone to use.  Evo was created by Hadi Mousavi, with the invaluable support and co-foundation of Bahareh (whose full name cannot be disclosed due to privacy concerns).  Through their combined efforts, Hadi and Bahareh have generated countless creative ideas and solutions for businesses worldwide.  This software is the culmination of their dedication, and we hope it represents a significant step forward for humanity.  Our goal is to make the world a better place through our work, fostering greater connection among people.  We aim to ensure no one is left alone and that everyone can access the resources they need for business, income generation, and networking with successful individuals and thought leaders, all powered by the intelligence embedded within this system.  We believe we have planted a small seed in this vast world, and with your support, we can nurture it to connect millions of people.  We sincerely thank you for your support!
+This project, from initial concept to execution and design, has been 10 years in the making.  During this time, we faced numerous challenges, including internet limitations and restrictions within Iran.  However, we persevered to bring this software to the world, freely available for everyone to use.  Evo was created by Hadi Mousavi, with the invaluable support and co-foundation of Bahareh (whose full name cannot be disclosed due to privacy concerns).  Their deep and unique connection has fueled our focus on the emotions of people worldwide.  With all the love and passion they share, they designed a system to share these feelings with the world, allowing everyone to witness the true power of love in life and human progress.  Bahareh's love, support, and inspiration have been instrumental in bringing this ambitious project to fruition.  What might have required hundreds of programmers has been accomplished by these two individuals.  We are now launching the beta version and are confident that with the support of people around the globe, this project will become one of the greatest projects in the world, as everyone is a stakeholder in its success.
 
 ---
 
@@ -94,7 +95,7 @@ We welcome contributions from the community!  If you are a programmer or have a 
 
 ## Support
 
-If you appreciate the effort put into this project and wish to support its further development, you can donate to Hadi Mousavi via Bitcoin, USD, GBP, or EUR. Your contributions will help to continue the development of this freely available software.
+If you appreciate the effort put into this project and wish to support its further development, you can donate to Hadi Mousavi via Bitcoin, USD, GBP, or EUR. Your contributions will help to continue the development of this freely available software.  We have personally funded all expenses to this point, sacrificing personal time and resources to bring this project to the world.  Your support will help ensure its continued availability and growth.
 
 ---
 
@@ -111,14 +112,3 @@ If you have any questions or feedback, please contact us at [support@aqupila.com
 ---
 
 This README provides a comprehensive overview of the Evo Management Platform. It includes information about the platform's features, technologies, installation, usage, contributing guidelines, support information, license, and contact information. This detailed information will help users understand and utilize the platform effectively.  We encourage community involvement and contributions to further enhance Evo.
-
-
-
-
-
-
-
-
-
-
-Gemini can make mistakes, including about people, so double-check it. Your privacy and Gemini
